@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function File() {
-  return <div>File</div>;
+  return <div>File component</div>;
 }
